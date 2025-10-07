@@ -10,7 +10,7 @@ export default defineConfig({
     siteTitle: "James Anderson",
     nav: [
       { text: "Home", link: "/" },
-      { text: "About Me", link: "/about-me/index" },
+
       {
         text: "Spiritual Personality",
         link: "/spiritual-personality/index",
@@ -21,9 +21,6 @@ export default defineConfig({
       },
     ],
     sidebar: [
-      {
-        items: [{ text: "About Me", link: "/about-me/" }],
-      },
       {
         items: [
           { text: "Spiritual Personality", link: "/spiritual-personality/" },

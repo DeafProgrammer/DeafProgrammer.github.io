@@ -1,1 +1,4 @@
-# Hello World
+# Welcome to my personal bio
+
+Hello World! I am James Anderson.
+This site shares my story, spiritual personality, and better than before.

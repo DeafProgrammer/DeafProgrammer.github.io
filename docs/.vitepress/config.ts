@@ -1,6 +1,6 @@
 import { defineConfig } from "vitepress";
 const urlName = "https://DeafProgrammer.github.io/";
-
+//test
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
   title: "James Anderson's Spiritual Personality & Makeup",

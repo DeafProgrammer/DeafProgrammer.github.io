@@ -3,6 +3,7 @@ const urlName = "https://DeafProgrammer.github.io/";
 //test
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
+  lang: "en-US",
   title: "James Anderson's Spiritual Personality & Makeup",
   description: "Spiritual Personality & Makeup",
   themeConfig: {
@@ -21,17 +22,14 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: "About Me",
         items: [{ text: "About Me", link: "/about-me/" }],
       },
       {
-        text: "Spiritual Personality",
         items: [
           { text: "Spiritual Personality", link: "/spiritual-personality/" },
         ],
       },
       {
-        text: "Better Than Before",
         items: [{ text: "Better Than Before", link: "/better-than-before/" }],
       },
     ],
@@ -41,6 +39,10 @@ export default defineConfig({
         link: "https://github.com/DeafProgrammer/DeafProgrammer.github.io",
       },
     ],
+    footer: {
+      message: "Released under the MIT License.",
+      copyright: "Copyright © 2025-present James Anderson",
+    },
   },
   base: "/",
 });

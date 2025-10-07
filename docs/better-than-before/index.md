@@ -1,5 +1,11 @@
 # Better Than Before
 
+<div style="overflow-x: auto; white-space: nowrap;">
+<img src="/CatScream.jpg" style="width:250px; height:250px; border-radius:50%; object-fit:cover; display:inline-block; margin-right:12px;"/>
+<img src="/CuteCat.jpg" style="width:250px; height:250px; border-radius:50%; object-fit:cover; display:inline-block; margin-right:12px;"/>
+<img src="/TwoCatsCuddle.jpg" style="width:250px; height:250px; border-radius:50%; object-fit:cover; display:inline-block; margin-right:12px;"/>
+</div>
+
 ## 🥸 The Four Tendencies
 
 I am used to being an upholder, but I am now a questioner. I studied at university 🎒 for many years. I always met deadlines and maintained good grades 🍎, but recently I have started to stop caring because I have accumulated so many credits that it hardly affects my GPA 🧠. I found it hard to avoid feeling stressed until I stopped feeling stressed . However, I also developed the bad habit of becoming obsessed with getting good grades. I also love solving problems. Once I start analysing something, I can't stop. I even overthink that. 😵

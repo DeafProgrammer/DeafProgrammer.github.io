@@ -21,6 +21,16 @@ export default defineConfig({
       },
     ],
     sidebar: {
+      "/": [
+        {
+          text: "Site Sections",
+          items: [
+            { text: "About Me", link: "/about-me" },
+            { text: "Spiritual Personality", link: "/spiritual-personality" },
+            { text: "Better Than Before", link: "/better-than-before" },
+          ],
+        },
+      ],
       "/about-me": [
         {
           text: "About Me",
